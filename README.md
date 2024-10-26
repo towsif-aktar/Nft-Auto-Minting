@@ -29,7 +29,7 @@ The Simple Smart Contract is an ERC1155 smart contract deployed on the Ethereum 
 # Deployment
 ## Prerequisites:
 + **Solidity Compiler:** Ensure your environment supports Solidity ^0.8.20.
-+ **Node.js & NPM:** To install and use Hardhat or Truffle or [Remix Ide](https://remix.ethereum.org/) for deployment.
++ **Deployment:** [Remix Ide](https://remix.ethereum.org/) for deployment.
 + **MetaMask Wallet:** [MetaMask](https://metamask.io/download/) For interacting with the deployed contract on a testnet/mainnet.
 
 
